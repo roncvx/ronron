@@ -1,0 +1,9 @@
+body {
+  background: url("cloud.gif");
+  text-align: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  padding: 0px 10px;
+  background-size: 1500px;
+}
